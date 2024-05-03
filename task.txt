@@ -1,0 +1,5 @@
+Complete the AWS Lambda function definition. The completed function should
+execute the pricing.py file using a compatible version of Python.
+
+Additionally, implement the function URL resource and provide the URL as proof
+of completion.
